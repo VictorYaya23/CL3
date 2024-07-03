@@ -7,7 +7,7 @@
 <title>INGRESAR AL SISTEMA</title>
 </head>
 <body bgcolor="#c5dec9" >
-<h1>INGRESAR AL SISTEMA</h1>
+<h1 align="center">INGRESAR AL SISTEMA</h1>
 <form action="ControladorUsuario" method="post"></form>
 <table border="2" align="center">
 
@@ -18,12 +18,12 @@
 
 <tr>
 <td>Contraseña</td>
-<td><input type="text" name="password"></td>
+<td><input type="text" name="contraseña"></td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<input type="submit" value="Registrar Producto"></td>
+<input type="submit" value="Ingresar"></td>
 </tr>
 
 

@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="#c5dec9">
 <h1 align="center">REGISTRAR PRODUCTO</h1>
-<form action="ControladorProductoCL3" method="post"></form>
+<form action="ControladorProducto" method="post"></form>
 <table border="2" align="center">
 
 <tr>
